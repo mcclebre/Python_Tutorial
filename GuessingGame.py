@@ -1,4 +1,4 @@
-secret_word = "Osiris"
+secret_word = "Python"
 guess = ""
 guess_count = 0
 guess_limit = 5
