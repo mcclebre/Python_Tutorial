@@ -40,7 +40,7 @@
 # if is_male or is_tall:
 #     print("You are a tall male")
 # elif is_male and not(is_tall):
-#     print("You are male, but you are short as hell.")
+#     print("You are male, but you are short as poop.")
 # elif not(is_male) and is_tall:
 #     print("You are not a male but you are tall")
 # else:
