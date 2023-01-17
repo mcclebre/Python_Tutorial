@@ -6,7 +6,7 @@
 # print('There once was a man named ' + character_name + ', ')
 # print('he was ' + character_age + ' years old.')
 
-# You can update a variables value at any point in a function, similar to a let statement.
+# You can update a variables value at any point, similar to a let statement.
 
 # character_name = 'Timmy the Tim Tam'
 # character_age = '42'
