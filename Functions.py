@@ -1,5 +1,5 @@
 # The first thing you need to do to create a function, is use def, name the function, and then follow it with a colon (:).
-# Following the call of the function, anything written with an indent is considered a part of the function. If it is not indented, it will be considered outside the scope of that function by python.
+# Following the setup of the function, anything written with an indent is considered a part of the function. If it is not indented, it will be considered outside the scope of that function by python.
 # def sayHi(): 
 #     hello
 #     hello
