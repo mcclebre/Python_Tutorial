@@ -2,12 +2,13 @@
 # Remember, lists are just like arrays(JS)
 # number_grid = [
 #     [1,2,3],
-#     [4,5,6],        #This number_grid list has 4 elements, which  
-#     [7,8,9],        # are each lists themselves.
+#     [4,5,6],          
+#     [7,8,9],        
 #     [0]
 # ]
-
 # print(number_grid[0][0])
+
+#This number_grid list has 4 elements, which are each lists themselves.
 # This example is set up to look like a grid for the ease of understanding how you can access different elements inside of two dimensional lists. When returning/printing the list number_grid, you can specify two index's with [][]. The first [] will be the element of the overall list, in this case the columns of the grid. The second [] will be the element within the list selected by the first [].
 #So, number_grid[0][0] would return 1, number_grid[2][1] would return 8, etc...
 
