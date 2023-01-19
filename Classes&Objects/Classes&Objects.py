@@ -33,3 +33,10 @@ def check_probation():
 print(check_probation())
 
 # Also, I just want to point out that I feel like an absolute freaking genius because I wrote that whole check_probation function by myself with no help and I freaking LOVE Python. This is fun as crap.
+
+# Below is the rest of the example from writing an additonal class function, that applies globally to all objects of the class.
+student3 = Student("Oscar Meyer", "Accounting", 3.3, False)
+student4 = Student("Pim Jam", "Counseling", 2.9, True)
+
+
+print(student3.on_honor_roll())
